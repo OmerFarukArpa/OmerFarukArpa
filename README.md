@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk Arpa</h1>
-<h3 align="center">Software Engineer | .NET Developer</h3>
+<h3 align="center">Software Engineer </h3>
 
 - 📫 How to reach me **arpaomer03@gmail.com**
 
