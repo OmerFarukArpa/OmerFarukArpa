@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk Arpa</h1>
 <h3 align="center">Software Engineer </h3>
 
-- 📫 How to reach me **arpaomer03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
